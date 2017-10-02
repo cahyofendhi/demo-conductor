@@ -12,4 +12,10 @@
         <item name="android:textSize">20sp</item>
     </style>
 
+    <style name="MainContent">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">24dp</item>
+    </style>
+    
 </resources>
